@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "DMbutton"
+  s.name         = "DMButton"
   s.version      = "1.1.0"
   s.summary      = "这是一个重写的UIButton"
 
