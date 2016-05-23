@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "DMButton"
+  s.name         = "DMbutton"
   s.version      = "1.1.0"
   s.summary      = "这是一个重写的UIButton"
 
@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
 
   s.author             = { "chenyanqi987" => "chenyanqi987@163.com" }
   s.source       = { :git => "https://github.com/chenyanqi987/DMbutton.git", :tag => "1.1.0" }
-  s.source_files  = "DMbutton/*"
+  s.source_files  = "DMButton/*"
 
 end
